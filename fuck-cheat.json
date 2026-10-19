@@ -2,6 +2,6 @@
   "version": 2,
   "title": "This is for testing ",
   "subtitle": "Give feedback , otherwise app will be disabled 👌",
-  "closeButton": true,
+  "closeButton": false,
   "link": "https://t.me/Marang_da"
 }
